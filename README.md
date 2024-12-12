@@ -1,1 +1,1 @@
-See ./index.md
+See [index.md](index.md).

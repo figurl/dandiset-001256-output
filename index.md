@@ -20,3 +20,13 @@
   <img src="https://lindi.neurosift.org/tmp/dandi/dandiset-001256/genie/sessions/sub-AA0308_ses-20210414T173129/roi_responses_first_acquisition.png?cb=n5coy" alt="Image" width="300" />
 </div>
 
+## sub-AA0310_ses-20210418T142709
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://lindi.neurosift.org/tmp/dandi/dandiset-001256/genie/sessions/sub-AA0310_ses-20210418T142709/pupil_video_single_frame.png?cb=p7q4l" alt="Image" width="300" />
+  <img src="https://lindi.neurosift.org/tmp/dandi/dandiset-001256/genie/sessions/sub-AA0310_ses-20210418T142709/two_photon_video_single_frame.png?cb=5u8n1" alt="Image" width="300" />
+  <img src="https://lindi.neurosift.org/tmp/dandi/dandiset-001256/genie/sessions/sub-AA0310_ses-20210418T142709/average_pupil_response.png?cb=8ns14" alt="Image" width="300" />
+  <img src="https://lindi.neurosift.org/tmp/dandi/dandiset-001256/genie/sessions/sub-AA0310_ses-20210418T142709/pupil_radius_acquisitions_aligned.png?cb=ygq5k" alt="Image" width="300" />
+  <img src="https://lindi.neurosift.org/tmp/dandi/dandiset-001256/genie/sessions/sub-AA0310_ses-20210418T142709/roi_responses_first_acquisition.png?cb=fuewx" alt="Image" width="300" />
+</div>
+

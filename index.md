@@ -26,12 +26,3 @@
 <img src="https://lindi.neurosift.org/tmp/dandi/dandiset-001256/genie/sessions/sub-AA0310_ses-20210418T142709/roi_responses_first_acquisition.png" alt="ROI Responses" height="400" />
 </div>
 
-## sub-AA0312_ses-20210422T173950
-<div style="display: flex; justify-content: space-between;">
-<img src="https://lindi.neurosift.org/tmp/dandi/dandiset-001256/genie/sessions/sub-AA0312_ses-20210422T173950/pupil_video_single_frame.png" alt="Pupil Video Frame" height="400" />
-<img src="https://lindi.neurosift.org/tmp/dandi/dandiset-001256/genie/sessions/sub-AA0312_ses-20210422T173950/two_photon_video_single_frame.png" alt="Two Photon Video Frame" height="400" />
-<img src="https://lindi.neurosift.org/tmp/dandi/dandiset-001256/genie/sessions/sub-AA0312_ses-20210422T173950/average_pupil_response.png" alt="Average Pupil Response" height="400" />
-<img src="https://lindi.neurosift.org/tmp/dandi/dandiset-001256/genie/sessions/sub-AA0312_ses-20210422T173950/pupil_radius_acquisitions_aligned.png" alt="Aligned Pupil Radius Acquisitions" height="400" />
-<img src="https://lindi.neurosift.org/tmp/dandi/dandiset-001256/genie/sessions/sub-AA0312_ses-20210422T173950/roi_responses_first_acquisition.png" alt="ROI Responses" height="400" />
-</div>
-

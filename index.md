@@ -30,3 +30,23 @@
   <img src="https://lindi.neurosift.org/tmp/dandi/dandiset-001256/genie/sessions/sub-AA0310_ses-20210418T142709/roi_responses_first_acquisition.png?cb=fuewx" alt="Image" width="300" />
 </div>
 
+## sub-AA0312_ses-20210422T173950
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://lindi.neurosift.org/tmp/dandi/dandiset-001256/genie/sessions/sub-AA0312_ses-20210422T173950/pupil_video_single_frame.png?cb=ui4e2" alt="Image" width="300" />
+  <img src="https://lindi.neurosift.org/tmp/dandi/dandiset-001256/genie/sessions/sub-AA0312_ses-20210422T173950/two_photon_video_single_frame.png?cb=4ic2h" alt="Image" width="300" />
+  <img src="https://lindi.neurosift.org/tmp/dandi/dandiset-001256/genie/sessions/sub-AA0312_ses-20210422T173950/average_pupil_response.png?cb=0hxe2" alt="Image" width="300" />
+  <img src="https://lindi.neurosift.org/tmp/dandi/dandiset-001256/genie/sessions/sub-AA0312_ses-20210422T173950/pupil_radius_acquisitions_aligned.png?cb=ps96l" alt="Image" width="300" />
+  <img src="https://lindi.neurosift.org/tmp/dandi/dandiset-001256/genie/sessions/sub-AA0312_ses-20210422T173950/roi_responses_first_acquisition.png?cb=fyiy8" alt="Image" width="300" />
+</div>
+
+## sub-AA0314_ses-20210425T153246
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://lindi.neurosift.org/tmp/dandi/dandiset-001256/genie/sessions/sub-AA0314_ses-20210425T153246/pupil_video_single_frame.png?cb=9r597" alt="Image" width="300" />
+  <img src="https://lindi.neurosift.org/tmp/dandi/dandiset-001256/genie/sessions/sub-AA0314_ses-20210425T153246/two_photon_video_single_frame.png?cb=ujaop" alt="Image" width="300" />
+  <img src="https://lindi.neurosift.org/tmp/dandi/dandiset-001256/genie/sessions/sub-AA0314_ses-20210425T153246/average_pupil_response.png?cb=ab4nu" alt="Image" width="300" />
+  <img src="https://lindi.neurosift.org/tmp/dandi/dandiset-001256/genie/sessions/sub-AA0314_ses-20210425T153246/pupil_radius_acquisitions_aligned.png?cb=4jtkv" alt="Image" width="300" />
+  <img src="https://lindi.neurosift.org/tmp/dandi/dandiset-001256/genie/sessions/sub-AA0314_ses-20210425T153246/roi_responses_first_acquisition.png?cb=tkcvb" alt="Image" width="300" />
+</div>
+
